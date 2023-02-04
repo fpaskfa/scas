@@ -1,0 +1,5 @@
+local ma = Instance.new("Model", workspace)
+ma.Name = "Home"
+local key = Instance.new("Part", ma)
+key.Anchored = true
+key.Name = "xLMnPoYlFGHjk"
